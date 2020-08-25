@@ -63,27 +63,27 @@ Encuestas
 
   * Encuesta para los clientes 
 
-   * ¿Cada cuanto cambia de celular? 
-   * ¿Cuántos aparatos electrónicos utiliza diariamente?
-   * ¿Como califica el proceso de reciclaje en su casa?
-   * ¿Sabe cuál es el proceso para dar de baja a estos equip
-   * ¿Conoce puntos de manejo de estos residuos electrónicos en la ciudad?
-   * ¿Cómo cree usted que afecta a la salud los residuos electrónicos?
-   * En la parte legislativa del estado ¿Se menciona leyes especialmente sobre el tratamiento de residuos electrónicos?
-   * ¿Cree usted que las personas están informadas sobre la problemática?
-   * ¿Recuerda cuantos celulares, televisores, tabletas y computadores compró los últimos 5 años? 
+    * ¿Cada cuanto cambia de celular? 
+    * ¿Cuántos aparatos electrónicos utiliza diariamente?
+    * ¿Como califica el proceso de reciclaje en su casa?
+    * ¿Sabe cuál es el proceso para dar de baja a estos equip
+    * ¿Conoce puntos de manejo de estos residuos electrónicos en la ciudad?
+    * ¿Cómo cree usted que afecta a la salud los residuos electrónicos?
+    * En la parte legislativa del estado ¿Se menciona leyes especialmente sobre el tratamiento de residuos electrónicos?
+    * ¿Cree usted que las personas están informadas sobre la problemática?
+    * ¿Recuerda cuantos celulares, televisores, tabletas y computadores compró los últimos 5 años? 
 
 * Encuesta para los expertos(asemar o asociaciones de recicladores) 
 
-   * ¿Reciclan componentes electrónicos?
-   * Si no los reciclan, ¿por qué?
-   * ¿Cuáles componentes electrónicos se pueden reciclar?
-   * ¿Hay lugares especiales dispuestos para el manejo de componentes electrónicos?
-   * ¿Qué porcentaje de material reciclado del componente original se le puede llamar optimo?
-   * ¿Cómo calificaría el reciclaje en Colombia? 1 a 5
-   * ¿Por qué?
-   * ¿hay algún modelo de reciclaje que sea fácilmente implementable y que mejore el manejo de componentes electrónicos?
-   * ¿Cuál es el material más difícil de reciclar? 
+    * ¿Reciclan componentes electrónicos?
+    * Si no los reciclan, ¿por qué?
+    * ¿Cuáles componentes electrónicos se pueden reciclar?
+    * ¿Hay lugares especiales dispuestos para el manejo de componentes electrónicos?
+    * ¿Qué porcentaje de material reciclado del componente original se le puede llamar optimo?
+    * ¿Cómo calificaría el reciclaje en Colombia? 1 a 5
+    * ¿Por qué?
+    * ¿hay algún modelo de reciclaje que sea fácilmente implementable y que mejore el manejo de componentes electrónicos?
+    * ¿Cuál es el material más difícil de reciclar? 
 
 * Planee la realización de las encuestas. 
 
