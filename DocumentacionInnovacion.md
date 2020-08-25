@@ -73,7 +73,7 @@ Encuestas
     * ¿Cree usted que las personas están informadas sobre la problemática?
     * ¿Recuerda cuantos celulares, televisores, tabletas y computadores compró los últimos 5 años? 
 
-* Encuesta para los expertos(asemar o asociaciones de recicladores) 
+  * Encuesta para los expertos(asemar o asociaciones de recicladores) 
 
     * ¿Reciclan componentes electrónicos?
     * Si no los reciclan, ¿por qué?
