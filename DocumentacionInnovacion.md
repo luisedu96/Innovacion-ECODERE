@@ -204,6 +204,10 @@ La parte de la recolección informal es muy perjudicial para el proyecto ya que 
 
 Para el próximo estudio de mercado se plantearán preguntas más específicas en temas de procesos de reciclaje y separación de componentes, con el fin de adquirir unas bases que nos ayuden con problemas específicamente técnicos del tema, por ejemplo, la adecuación de procesos para el reciclaje de ciertos componentes electrónicos, el manejo de componentes peligrosos y el grado impacto de cada componente en el medio ambiente. 
 
+## Video del proceso
+
+https://www.youtube.com/watch?v=KzKBUjcTtLQ&feature=youtu.be
+
 ## 4. Ideación
 4.1	Interpretar necesidades
 
