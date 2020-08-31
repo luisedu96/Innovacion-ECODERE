@@ -17,7 +17,7 @@
 |Entrega trabajo de ideación	|19 de Octubre	|30 %|
 |Roadmap	|23 de Octubre	|10 %|
 
-## Tratamiento óptimo de los desechos electrónicos 
+# Tratamiento óptimo de los desechos electrónicos 
 
 ## 1. Presentación del equipo de trabajo
 
@@ -41,7 +41,7 @@ Es indudable la problemática que se tiene, pero la solución está incluida en 
 
  
 
-# Cifras que soportan el tema abordado 
+## Cifras que soportan el tema abordado 
 
 Para hacernos una idea de la magnitud del problema podemos identificar varias cifras que son muy importantes por que reflejan directamente la situación actual en el mundo, un ejemplo es que si pudiéramos juntar todos los celulares, computadoras y electrodomésticos viejos que desechamos cada año en el mundo, su peso sería equivalente a las nueve Grandes Pirámides de Giza, en Egipto. Y su valor económico superaría al Producto Interno Bruto (PIB) de Costa Rica, Croacia o Tanzania. 
 
@@ -69,19 +69,19 @@ La chatarra electrónica tan solo representa el 2% de los flujos residuales sól
 
 # IPM
 
-# Propósito del estudio primario de mercado 
+## Propósito del estudio primario de mercado 
 
 Este estudio primario de mercado se hace con el propósito de adquirir una visión más amplia referente al reciclaje de aparatos electrónicos, se plantearon preguntas a clientes y expertos, con el objetivo de aprender sobre sus hábitos y conocimientos en temas de reciclaje y reutilización, brindando así la oportunidad de analizar y caracterizar grupos con comportamientos afines, adquiriendo así un panorama general del tema. 
 
  
 
-# Identificación de personas, expertos y escenarios análogos 
+## Identificación de personas, expertos y escenarios análogos 
 
 Se pretende que la encuesta alcance hogares con un Consumo medio-alto de tecnología (aparatos electrónicos) 
 
  
 
-# Características de los posibles entrevistados: 
+## Características de los posibles entrevistados: 
 
     Sexo: Cualquiera 
 
@@ -91,17 +91,17 @@ Se pretende que la encuesta alcance hogares con un Consumo medio-alto de tecnolo
 
     Nivel de escolaridad: Cualquiera 
 
-# Definición de expertos: 
+## Definición de expertos: 
 
-Necesitamos expertos en el manejo de residuos, específicamente en el reciclaje de circuitos, microchips y toda clase de aparatos electrónicos 
+* Necesitamos expertos en el manejo de residuos, específicamente en el reciclaje de circuitos, microchips y toda clase de aparatos electrónicos 
 
-Asociaciones de recicladores 
+* Asociaciones de recicladores 
 
-Expertos en reciclaje en general que tengan un contacto directo con los residuos de componentes electrónicos 
+* Expertos en reciclaje en general que tengan un contacto directo con los residuos de componentes electrónicos 
 
 Para este estudio primario de mercado se entrevistó al experto Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes, a quien agradecemos su colaboración en el proceso 
 
-# Definición de escenarios análogos. 
+## Definición de escenarios análogos. 
 
 En varias empresas de alimentos, optimizan sus procesos para aprovechar al máximo la materia prima, y en algunas, reciclan las sobras para crear otros productos 
 
@@ -110,7 +110,7 @@ En varias empresas de alimentos, optimizan sus procesos para aprovechar al máxi
 Empresas de reciclaje, empresas manufactureras de componentes electrónicos, empresas varias 
 
  
-# Preguntas de la encuesta 
+## Preguntas de la encuesta 
 
 Clientes 
 
@@ -146,7 +146,7 @@ Expertos
 
  
 
-# Resultados de la encuesta: 
+## Resultados de la encuesta: 
 
 Los resultados de la encuesta a los clientes se pueden encontrar aquí: 
 
@@ -161,9 +161,9 @@ Esta encuesta nos brindó una visión más amplia de nuestra problemática, el p
     Hay un desconocimiento general de un proceso de deposición y reciclaje óptimo de componentes electrónicos. 
 
 
-3.2	Síntesis
+## 3.2	Síntesis
 
-# Ideas identificadas. 
+## Ideas identificadas. 
 
 La mayoría de las personas muestra un consumo de aparatos electrónicos promedio 
 
@@ -177,7 +177,7 @@ Los residuos electrónicos afectan la salud
 
 Los residuos de aparatos electrónicos generan un alto impacto ambiental y al ser humano si es que no se hace el tratamiento respectivo a estos desechos. La composición de los RAEE es muy diversa, llegando a contener hasta más de 200 compuestos diferentes, esto hace que su efecto, al no ser tratado debidamente, genere múltiples problemas de salud como por ejemplo unos de esos compuestos es el plomo el cual es una sustancia tóxica que se va acumulando en el organismo afectando el cerebro, el hígado, los riñones, los huesos y los dientes. Para el medio ambiente es muy perjudicial porque la mayoría de estos compuestos, por no decirlo todos, son inorgánicos tardan años para degradarse.  
 
-# Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
+## Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
 
 Responsabilidad de los productores 
 
@@ -187,7 +187,7 @@ Existe un mercado negro que se aprovecha solo los elementos costosos.
 
 Existen recolectores informales que solo aprovechan los compuestos costosos de los equipos electrónicos y el resto de estos compuestos no son tratados debidamente. Esto dificulta la forma de ir avanzando con el proyecto, además de que atrasa la tarea de mejorar la calidad del medio ambiente y la salud de las personas. Esto es el efecto de que las personas no tienen bien en claro donde llevar sus desechos electrónicos. 
 
-# Detalle de los desafíos, situaciones problemas identificados 
+## Detalle de los desafíos, situaciones problemas identificados 
 
 Desinformación del tratamiento de desechos electrónicos 
 
@@ -203,7 +203,7 @@ La parte de la recolección informal es muy perjudicial para el proyecto ya que 
 
  
 
-# ¿Qué incluirá en su próximo estudio de mercado? 
+## ¿Qué incluirá en su próximo estudio de mercado? 
 
 Para el próximo estudio de mercado se plantearán preguntas más específicas en temas de procesos de reciclaje y separación de componentes, con el fin de adquirir unas bases que nos ayuden con problemas específicamente técnicos del tema, por ejemplo, la adecuación de procesos para el reciclaje de ciertos componentes electrónicos, el manejo de componentes peligrosos y el grado impacto de cada componente en el medio ambiente. 
 
