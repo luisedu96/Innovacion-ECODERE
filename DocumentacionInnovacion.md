@@ -17,10 +17,21 @@
 |Entrega trabajo de ideación	|19 de Octubre	|30 %|
 |Roadmap	|23 de Octubre	|10 %|
 
+## Tratamiento óptimo de los desechos electrónicos 
+
 ## 1. Presentación del equipo de trabajo
 
+Luis Eduardo Cahuana López 
+
+Juan Esteban Palacio Restrepo 
+
+Daniel Arboleda Cuervo 
+
+Juan Pablo Cano Cuadros 
 
 ## 2. Descripción del tema
+
+
 
 ## 3. Inspiración
 
@@ -60,7 +71,7 @@ Encuestas
   * Empresas de reciclaje, empresas manufactureras de componentes electrónicos, empresas varias 
 
 * Defina las preguntas de la encuesta. 
-
+------------------------------
   * Encuesta para los clientes 
 
     * ¿Cada cuanto cambia de celular? 
