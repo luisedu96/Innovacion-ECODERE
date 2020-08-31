@@ -80,16 +80,12 @@ Este estudio primario de mercado se hace con el propósito de adquirir una visi�
 Se pretende que la encuesta alcance hogares con un Consumo medio-alto de tecnología (aparatos electrónicos) 
 
  
-
 ## Características de los posibles entrevistados: 
 
-    Sexo: Cualquiera 
-
-    Estrato: Cualquiera 
-
-    Edad: 18 – 75 años 
-
-    Nivel de escolaridad: Cualquiera 
+* Sexo: Cualquiera 
+* Estrato: Cualquiera 
+* Edad: 18 – 75 años 
+* Nivel de escolaridad: Cualquiera 
 
 ## Definición de expertos: 
 
@@ -105,7 +101,8 @@ Para este estudio primario de mercado se entrevistó al experto Daniel Londoño 
 
 En varias empresas de alimentos, optimizan sus procesos para aprovechar al máximo la materia prima, y en algunas, reciclan las sobras para crear otros productos 
 
-# Definición de espacios a visitar: 
+
+## Definición de espacios a visitar: 
 
 Empresas de reciclaje, empresas manufactureras de componentes electrónicos, empresas varias 
 
@@ -154,11 +151,11 @@ https://docs.google.com/forms/d/1lljeu3IP18nrrUT7n1M3p017fM3t3qsMv92Wzrzyf-8/edi
 
 Esta encuesta nos brindó una visión más amplia de nuestra problemática, el problema se puede generalizar a la falta de conocimiento de cómo reciclar de cualquier residuo, pero este problema se hace más evidente cuando se refiere a aparatos electrónicos, de estas encuestas se sacan las siguientes conclusiones: 
 
-    La mayoría de las personas muestra un consumo de tecnología medio, a su vez que su conocimiento sobre el reciclaje de estos aparatos no es profundo. 
+* La mayoría de las personas muestra un consumo de tecnología medio, a su vez que su conocimiento sobre el reciclaje de estos aparatos no es profundo. 
 
-    El consenso general es que estos residuos afectan la salud, pero opiniones muy variadas de la forma que estos componentes afectan la salud de las personas. 
+* El consenso general es que estos residuos afectan la salud, pero opiniones muy variadas de la forma que estos componentes afectan la salud de las personas. 
 
-    Hay un desconocimiento general de un proceso de deposición y reciclaje óptimo de componentes electrónicos. 
+* Hay un desconocimiento general de un proceso de deposición y reciclaje óptimo de componentes electrónicos. 
 
 
 ## 3.2	Síntesis
