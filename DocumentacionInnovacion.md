@@ -162,7 +162,7 @@ Esta encuesta nos brindó una visión más amplia de nuestra problemática, el p
 
 ## Ideas identificadas. 
 
-La mayoría de las personas muestra un consumo de aparatos electrónicos promedio 
+### La mayoría de las personas muestra un consumo de aparatos electrónicos promedio 
 
 En la actualidad, con el avance constante de la tecnología y mejoramiento de los sistemas electrónicos para su óptimo funcionamiento se están fabricando cada vez más de estos equipos y categorizando de obsoletos algunos de los aparatos electrónicos que ya se tienen solo porque son versiones antiguas, pero que aún funcionan con normalidad. Por ejemplo, los resultados de las encuestas a futuros usuarios del proyecto demuestran que por lo menos el 56% de ellos usan entre 1 a 3 aparatos electrónicos y es razonable y eso sin tomar en cuenta que esta cantidad incrementará a futuro, por lo que se podría deducir que al momento de que estos equipos se deterioren generen problemas de tratamiento de desechos. 
 
@@ -174,7 +174,7 @@ El tratamiento de estos desechos electrónicos no es fácil, porque cuentan con 
 
 Los residuos de aparatos electrónicos generan un alto impacto ambiental y al ser humano si es que no se hace el tratamiento respectivo a estos desechos. La composición de los RAEE es muy diversa, llegando a contener hasta más de 200 compuestos diferentes, esto hace que su efecto, al no ser tratado debidamente, genere múltiples problemas de salud como por ejemplo unos de esos compuestos es el plomo el cual es una sustancia tóxica que se va acumulando en el organismo afectando el cerebro, el hígado, los riñones, los huesos y los dientes. Para el medio ambiente es muy perjudicial porque la mayoría de estos compuestos, por no decirlo todos, son inorgánicos tardan años para degradarse.  
 
-## *Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
+##### Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
 
 ### Responsabilidad de los productores 
 
