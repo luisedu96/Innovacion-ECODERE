@@ -109,37 +109,37 @@ Empresas de reciclaje, empresas manufactureras de componentes electrónicos, emp
  
 ## Preguntas de la encuesta 
 
-Clientes 
+### Clientes 
 
-    ¿Cuántos aparatos electrónicos utiliza diariamente? 
+   * ¿Cuántos aparatos electrónicos utiliza diariamente? 
 
-    ¿Como califica el proceso de reciclaje en su casa? 
+   * ¿Como califica el proceso de reciclaje en su casa? 
 
-    ¿Sabe cuál es el proceso para dar de baja a equipos electrónicos? 
+   * ¿Sabe cuál es el proceso para dar de baja a equipos electrónicos? 
 
-    ¿Conoce puntos de manejo de estos residuos electrónicos en la ciudad? 
+   * ¿Conoce puntos de manejo de estos residuos electrónicos en la ciudad? 
 
-    ¿Cómo cree usted que afecta a la salud los residuos electrónicos? 
+   * ¿Cómo cree usted que afecta a la salud los residuos electrónicos? 
 
-    En la parte legislativa del estado ¿Se menciona leyes especialmente sobre el tratamiento de residuos electrónicos? 
+   * En la parte legislativa del estado ¿Se menciona leyes especialmente sobre el tratamiento de residuos electrónicos? 
 
-    ¿Cree usted que las personas están informadas sobre la problemática? 
+   * ¿Cree usted que las personas están informadas sobre la problemática? 
 
-    ¿Recuerda cuantos celulares, televisores, tabletas y computadores compró los últimos 5 años? 
+   * ¿Recuerda cuantos celulares, televisores, tabletas y computadores compró los últimos 5 años? 
 
-Expertos 
+### Expertos 
 
-    ¿Considera que en este momento hay un problema mundial en el manejo de residuos? 
+   * ¿Considera que en este momento hay un problema mundial en el manejo de residuos? 
+   
+   * ¿Cree que el proceso de fabricación actual de componentes electrónicos tiene en cuenta el medio ambiente? 
 
-    ¿Cree que el proceso de fabricación actual de componentes electrónicos tiene en cuenta el medio ambiente? 
+   * ¿Sabe de componentes electrónicos que se puedan reciclar o reutilizar? 
 
-    ¿Sabe de componentes electrónicos que se puedan reciclar o reutilizar? 
+   * ¿Cómo calificaría el reciclaje de estos componentes en Colombia?  ¿Por qué? 
 
-    ¿Cómo calificaría el reciclaje de estos componentes en Colombia?  ¿Por qué? 
+   * ¿Considera usted que las personas son conscientes de la problemática sobre el aumento de estos residuos? ¿Por qué? 
 
-    ¿Considera usted que las personas son conscientes de la problemática sobre el aumento de estos residuos? ¿Por qué? 
-
-    ¿Sabe de algún material o componente electrónico que genere problemas de salud si no hay un manejo adecuado al final de su vida útil? 
+   * ¿Sabe de algún material o componente electrónico que genere problemas de salud si no hay un manejo adecuado al final de su vida útil? 
 
  
 
@@ -158,7 +158,7 @@ Esta encuesta nos brindó una visión más amplia de nuestra problemática, el p
 * Hay un desconocimiento general de un proceso de deposición y reciclaje óptimo de componentes electrónicos. 
 
 
-## 3.2	Síntesis
+# 3.2	Síntesis
 
 ## Ideas identificadas. 
 
@@ -166,35 +166,35 @@ La mayoría de las personas muestra un consumo de aparatos electrónicos promedi
 
 En la actualidad, con el avance constante de la tecnología y mejoramiento de los sistemas electrónicos para su óptimo funcionamiento se están fabricando cada vez más de estos equipos y categorizando de obsoletos algunos de los aparatos electrónicos que ya se tienen solo porque son versiones antiguas, pero que aún funcionan con normalidad. Por ejemplo, los resultados de las encuestas a futuros usuarios del proyecto demuestran que por lo menos el 56% de ellos usan entre 1 a 3 aparatos electrónicos y es razonable y eso sin tomar en cuenta que esta cantidad incrementará a futuro, por lo que se podría deducir que al momento de que estos equipos se deterioren generen problemas de tratamiento de desechos. 
 
-Desinformación sobre el proceso de reciclaje de aparatos electrónicos 
+### Desinformación sobre el proceso de reciclaje de aparatos electrónicos 
 
 El tratamiento de estos desechos electrónicos no es fácil, porque cuentan con sustancias y elementos en la que el proceso de reciclaje no se compara con la de los desechos orgánicos e inorgánicos, sino que se requiere un amplio estudio o conocimiento para extraer estos elementos y así ser reutilizados para futuros proyectos.  Además, la encuesta demuestra que el 70% de los encuestados desconoce algún punto de acopio donde almacena estos residuos. Por lo tanto, se comprende que muchas personas se encuentren desinformadas sobre el tratamiento de estos desechos electrónicos y en consecuencia a esto, las personas no saben qué hacer, donde almacenar o si alguna entidad recolecta estos desechos. 
 
-Los residuos electrónicos afectan la salud 
+### Los residuos electrónicos afectan la salud 
 
 Los residuos de aparatos electrónicos generan un alto impacto ambiental y al ser humano si es que no se hace el tratamiento respectivo a estos desechos. La composición de los RAEE es muy diversa, llegando a contener hasta más de 200 compuestos diferentes, esto hace que su efecto, al no ser tratado debidamente, genere múltiples problemas de salud como por ejemplo unos de esos compuestos es el plomo el cual es una sustancia tóxica que se va acumulando en el organismo afectando el cerebro, el hígado, los riñones, los huesos y los dientes. Para el medio ambiente es muy perjudicial porque la mayoría de estos compuestos, por no decirlo todos, son inorgánicos tardan años para degradarse.  
 
-## Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
+## *Ideas a partir de la entrevista con el experto: Daniel Londoño Jaramillo Gerente de la Fundación Puntos Verdes. 
 
-Responsabilidad de los productores 
+### Responsabilidad de los productores 
 
 En la parte legislativa hacia el tema de desechos electrónicos a existido un vacío durante un tiempo. En el año 2014 se ha incluido ciertas leyes (resoluciones) que obligan a ciertas empresas a que se hagan responsable de la recolección y tratamiento de ciertos tipos de desechos electrónicos, ya que, el problema principal pasa por ese aspecto. Se espera que para este año se aprueben leyes en la que todos los productores de equipos electrónicos se hagan cargo de la recolección de los desechos que generan y su respectivo proceso de reciclaje.  
 
-Existe un mercado negro que se aprovecha solo los elementos costosos. 
+### Existe un mercado negro que se aprovecha solo los elementos costosos. 
 
 Existen recolectores informales que solo aprovechan los compuestos costosos de los equipos electrónicos y el resto de estos compuestos no son tratados debidamente. Esto dificulta la forma de ir avanzando con el proyecto, además de que atrasa la tarea de mejorar la calidad del medio ambiente y la salud de las personas. Esto es el efecto de que las personas no tienen bien en claro donde llevar sus desechos electrónicos. 
 
 ## Detalle de los desafíos, situaciones problemas identificados 
 
-Desinformación del tratamiento de desechos electrónicos 
+### Desinformación del tratamiento de desechos electrónicos 
 
 El desconocimiento de las personas sobre el tema genera preocupación, ya que como son la parte esencial en la recolección de los desechos electrónicos son la parte fundamental para que el proyecto tome forma. Uno de los desafíos a plantear es cómo informar a las personas de manera óptima, creíble y de mayor alcance para generar un impacto y concientización en ellas.  
 
-El aspecto legal 
+### El aspecto legal 
 
 La situación legal sobre la problemática del manejo de residuos electrónicos se está dejando ver, hasta el momento se ha hecho algo para revertir la situación, pero aún no es el apropiado. Se entiende que hay un apoyo por parte del gobierno y es buena la iniciativa. Si no es porque el gobierno dicto unas resoluciones las empresas productoras no se responsabilizaría de sus desechos, entonces el desafía está en generar en las empresas una iniciativa por sí mismas y que también le generen ingresos de sus propios desechos. 
 
-Recolectores informales 
+### Recolectores informales 
 
 La parte de la recolección informal es muy perjudicial para el proyecto ya que esos desechos no se ocupan en su totalidad y generan problemas ambientales y a la salud. El problema pasaría por un tema legal en un inicio, pero entrando más a fondo es un problema de la desinformación por parte de las personas, ya que, estos al no saber a dónde enviar sus desechos electrónicos las entrega estos recolectores informales. 
 
