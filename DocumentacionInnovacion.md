@@ -219,23 +219,23 @@ En una ocasión su sobrino le mostró con la aplicación de google maps lo fáci
 Un día tuvo que asistir a una capacitación en su empresa para poder operar un nuevo tipo de maquinaria debido a las nuevas tecnologías y Carlos comprendió que ese es el futuro.
 
 **Información:** 
-**Edad:**33 años
-**Genero:** Masculino
-**Educación:** Bachiller académico
-**Ocupación:** Operario de maquinaria industrial
-**Situación socio económica:** estable con ingresos constantes de nivel intermedio
+ * **Edad:** 33 años
+ * **Genero:** Masculino
+ * **Educación:** Bachiller académico
+ * **Ocupación:** Operario de maquinaria industrial
+ * **Situación socio económica:** estable con ingresos constantes de nivel intermedio
 
 **Geográfica:**
-**Clima:** templado, subtropical
-**Terreno:** difícil con variaciones a pavimentado
-**Ciudad:** Medellín
-**Ubicación:** Afueras de la ciudad
-**País:** Colombia
+ * **Clima:** templado, subtropical
+ * **Terreno:** difícil con variaciones a pavimentado
+ * **Ciudad:** Medellín
+ * **Ubicación:** Afueras de la ciudad
+ * **País:** Colombia
 
 **Psicológico:**
-**Personalidades:** persona comprometida con su labor diaria, responsable, sociable, Respetuosa y curiosa
-**Comportamiento:** acostumbrado a cumplir con sus obligaciones y labores diarias en Ocasiones se interesa por cosas nuevas a pesar de que le cuesta salir de su rutina.
-**Estilo de vida:** lleva una vida tranquila en ocasiones atareada por su labor 
+ * **Personalidades:** persona comprometida con su labor diaria, responsable, sociable, Respetuosa y curiosa
+ * **Comportamiento:** acostumbrado a cumplir con sus obligaciones y labores diarias en Ocasiones se interesa por cosas nuevas a pesar de que le cuesta salir de su rutina.
+ * **Estilo de vida:** lleva una vida tranquila en ocasiones atareada por su labor 
 
 **Patrones de gasto:**
 Normalmente consume productos comunes para la necesidad humana, pero en ocasiones llevado por su afán de explorar nuevas cosas compra productos electrónicos actuales para tener una perspectiva más amplia y acostumbrarse a ellos al punto de que es un usuario frecuente de los mismos y se puede decir que tiene un consumo promedio de elementos electrónicos.
