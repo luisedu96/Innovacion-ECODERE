@@ -269,7 +269,33 @@ Cuando cambio de telefono celular, perdió varias llamadas esa semana al creer q
 Consumo de electronicos al minimo, no se interesa en lo absoluto por la tecnologia, tiene que buscar asesoria externa en la rara ocasión que tenga que actualizar el equipo electronico que más utiliza, el celular.
 
 ---
+### Nombre: Leslie García Pérez
+**Anécdotas:**
+Cuando utilizó la aplicación rappi no se dio cuenta que había pedido más cantidad de lo necesario.
 
+**Información:** 
+ * **Edad:** 38 años
+ * **Genero:** Femenino
+ * **Educación:** Educación superior – pregrado
+ * **Ocupación:** Abogada
+ * **Situación socio económica:** Media
+
+**Geográfica:**
+ * **Clima:** Templado
+ * **Terreno:** Pavimentado
+ * **Ciudad:** Boyacá
+ * **Ubicación:** Centro de la ciudad
+ * **País:** Colombia
+
+**Psicológico:**
+ * **Personalidades:** Extrovertida  
+ * **Comportamiento:** Muy fácil de hacer amistades.
+ * **Estilo de vida:** Solo le interesa las cosas necesarias y lleva una vida austera
+
+**Patrones de gasto:**
+Compra ropa y muestra interes por la tecnología.
+
+---
 
 4.3	Soluciones propuestas
 
