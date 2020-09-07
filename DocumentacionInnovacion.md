@@ -240,6 +240,7 @@ Un día tuvo que asistir a una capacitación en su empresa para poder operar un 
 **Patrones de gasto:**
 Normalmente consume productos comunes para la necesidad humana, pero en ocasiones llevado por su afán de explorar nuevas cosas compra productos electrónicos actuales para tener una perspectiva más amplia y acostumbrarse a ellos al punto de que es un usuario frecuente de los mismos y se puede decir que tiene un consumo promedio de elementos electrónicos.
 
+---
 
 ### Nombre: Gloria Ester Rodriguez Medina
 **Anécdotas:**
@@ -266,6 +267,8 @@ Cuando cambio de telefono celular, perdió varias llamadas esa semana al creer q
 
 **Patrones de gasto:**
 Consumo de electronicos al minimo, no se interesa en lo absoluto por la tecnologia, tiene que buscar asesoria externa en la rara ocasión que tenga que actualizar el equipo electronico que más utiliza, el celular.
+
+---
 
 
 4.3	Soluciones propuestas
