@@ -241,6 +241,31 @@ Un día tuvo que asistir a una capacitación en su empresa para poder operar un 
 Normalmente consume productos comunes para la necesidad humana, pero en ocasiones llevado por su afán de explorar nuevas cosas compra productos electrónicos actuales para tener una perspectiva más amplia y acostumbrarse a ellos al punto de que es un usuario frecuente de los mismos y se puede decir que tiene un consumo promedio de elementos electrónicos.
 
 
+### Nombre: Gloria Ester Rodriguez Medina
+**Anécdotas:**
+Cuando cambio de telefono celular, perdió varias llamadas esa semana al creer que el modo avión era para acelerar el equipo.
+
+**Información:** 
+ * **Edad:** 52 años
+ * **Genero:** Femenino
+ * **Educación:** Bachiller, educacion profesional no completada
+ * **Ocupación:** Ama de casa
+ * **Situación socio económica:** Estable
+
+**Geográfica:**
+ * **Clima:** templado, subtropical
+ * **Terreno:** Regular, pavimentado
+ * **Ciudad:** Medellín
+ * **Ubicación:** Centro de la ciudad
+ * **País:** Colombia
+
+**Psicológico:**
+ * **Personalidades:** Sociable,  
+ * **Comportamiento:** Apegada a la rutina, no se interesa por cosas nuevas.
+ * **Estilo de vida:** muestra un patrón para cumplir sus labores diarias, lleva una vida tranquila
+
+**Patrones de gasto:**
+Consumo de electronicos al minimo, no se interesa en lo absoluto por la tecnologia, tiene que buscar asesoria externa en la rara ocasión que tenga que actualizar el equipo electronico que más utiliza, el celular.
 
 
 4.3	Soluciones propuestas
