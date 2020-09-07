@@ -261,7 +261,7 @@ Cuando cambio de telefono celular, perdió varias llamadas esa semana al creer q
  * **País:** Colombia
 
 **Psicológico:**
- * **Personalidades:** Sociable,  
+ * **Personalidades:** Sociable, trabajadora, amable
  * **Comportamiento:** Apegada a la rutina, no se interesa por cosas nuevas.
  * **Estilo de vida:** muestra un patrón para cumplir sus labores diarias, lleva una vida tranquila
 
@@ -269,33 +269,35 @@ Cuando cambio de telefono celular, perdió varias llamadas esa semana al creer q
 Consumo de electronicos al minimo, no se interesa en lo absoluto por la tecnologia, tiene que buscar asesoria externa en la rara ocasión que tenga que actualizar el equipo electronico que más utiliza, el celular.
 
 ---
-### Nombre: Leslie García Pérez
+
+### Nombre: Luz María Rodriguez 
 **Anécdotas:**
-Cuando utilizó la aplicación rappi no se dio cuenta que había pedido más cantidad de lo necesario.
+Debido a la tendencia bancaria actual, Luz María tuvo que educarse de manera empírica en el uso de todos los servicios bancarios y aplicaciones bancarias actuales, todo esto para poder consignar, retirar y realizar préstamos para aumentar las prestaciones de su negocio propio, esta experiencia hizo que se apasionara y le terminara por encantar la facilidad con que podría hacer uso de los servicios bancarios de siempre, pero esta vez, teniendo todo en la palma de su mano.
 
 **Información:** 
- * **Edad:** 38 años
+ * **Edad:** 45 años
  * **Genero:** Femenino
- * **Educación:** Educación superior – pregrado
- * **Ocupación:** Abogada
- * **Situación socio económica:** Media
+ * **Educación:** Bachiller acádemico
+ * **Ocupación:** Confeccionista
+ * **Situación socio económica:** Estable, clase media con ingresos irregulares, pero fijamente superiores a 1.5 SMLV
 
 **Geográfica:**
- * **Clima:** Templado
- * **Terreno:** Pavimentado
- * **Ciudad:** Boyacá
- * **Ubicación:** Centro de la ciudad
+ * **Clima:** templado, subtropical
+ * **Terreno:** Montañoso pero pavimentado.
+ * **Ciudad:** Medellín
+ * **Ubicación:** Zona Oriental de la ciudad.
  * **País:** Colombia
 
 **Psicológico:**
- * **Personalidades:** Extrovertida  
- * **Comportamiento:** Muy fácil de hacer amistades.
- * **Estilo de vida:** Solo le interesa las cosas necesarias y lleva una vida austera
+ * **Personalidades:** Persona comprometida con su emprendimiento, con carácter fuerte pero siempre responsable.  
+ * **Comportamiento:** Aunque trabaja de manera independiente, cumple horarios, escucha y entiende a sus empleados, proveedores y clientes, entregada y siempre atenta a sus hijos, cumple los negocios realizados al pie de la letra.
+ * **Estilo de vida:** Vida mayormente entregada a su trabajo, según ella, es el mejor momento de su negocio, una vez cumple todas sus labores y adelanta otras, le gusta viajar a zonas rurales a descansar. 
 
 **Patrones de gasto:**
-Compra ropa y muestra interes por la tecnología.
+Consume productos de belleza, maquillaje y ropa de temporada, siempre atenta a los gastos que sus hijos necesitan para el colegio, también siempre responsable con el pago de la materia prima para su emprendimiento, le gusta usar celulares caros para poder atender todos sus pedidos y realizar todos los movimientos bancarios que necesita de la manera más ágil y eficaz.
 
 ---
+
 
 4.3	Soluciones propuestas
 
