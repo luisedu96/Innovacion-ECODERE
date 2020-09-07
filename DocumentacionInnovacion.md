@@ -211,7 +211,35 @@ https://www.youtube.com/watch?v=KzKBUjcTtLQ&feature=youtu.be
 ## 4. Ideación
 4.1	Interpretar necesidades
 
-4.2	Diseño de personas
+### 4.2	Diseño de personas
+
+-Nombre: Carlos Antonio Zapata Betancur
+-Anécdotas: 
+-En una ocasión su sobrino le mostró con la aplicación de google maps lo fácil que es ubicarse en la ciudad por medio de la misma, ese día Carlos vio la ciudad de forma diferente y comenzó a tener curiosidad por el tema.
+-Un día tuvo que asistir a una capacitación en su empresa para poder operar un nuevo tipo de maquinaria debido a las nuevas tecnologías y Carlos comprendió que ese es el futuro.
+-Información: 
+        -Edad:33 años
+        -Genero: Masculino
+        -Educación: Bachiller académico
+        -Ocupación: Operario de maquinaria industrial
+        -Situación socio económica: estable con ingresos constantes de nivel intermedio
+-Geográfica: 
+         -Clima: templado, subtropical
+         -Terreno: difícil con variaciones a pavimentado
+         -Ciudad: Medellín
+         -Ubicación: Afueras de la ciudad
+         -País: Colombia
+-Psicológico:
+         -Personalidades: persona comprometida con su labor diaria, responsable, sociable,                                                                                               
+           Respetuosa y curiosa
+         -Comportamiento: acostumbrado a cumplir con sus obligaciones y labores diarias en 
+          Ocasiones se interesa por cosas nuevas a pesar de que le cuesta salir de su rutina.
+        -Estilo de vida: lleva una vida tranquila en ocasiones atareada por su labor 
+-Patrones de gasto:
+Normalmente consume productos comunes para la necesidad humana, pero en ocasiones llevado por su afán de explorar nuevas cosas compra productos electrónicos actuales para tener una perspectiva más amplia y acostumbrarse a ellos al punto de que es un usuario frecuente de los mismos y se puede decir que tiene un consumo promedio de elementos electrónicos.
+
+
+
 
 4.3	Soluciones propuestas
 
