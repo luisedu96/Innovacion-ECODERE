@@ -305,35 +305,39 @@ De las dificultades encontradas:
 
 Desinformación del tratamiento de desechos electrónicos
 * **¿Cómo podríamos nosotros ampliar el conocimiento de las personas sobre el reciclaje**
-  *	Campañas educativas
-  *	Cursos obligatorios de reciclaje
-  *	Publicidad
-  *	Notas en etiquetas de productos
-  *	Sanciones por mal manejo de residuos
-  *	Desarrollo de plataforma de aprendizaje
-  *	App enciclopedia de consulta sobre manejo de residuos
+  •	Campañas educativas
+  •	Cursos obligatorios de reciclaje
+  •	Publicidad
+  •	Notas en etiquetas de productos
+  •	Sanciones por mal manejo de residuos
+  •	Desarrollo de plataforma de aprendizaje
+  •	App enciclopedia de consulta sobre manejo de residuos
 
 
 El aspecto legal
 * **¿Cómo podríamos nosotros ayudar a establecer mejores normas frente al manejo de residuos?**
-  *	Publicidad contra empresas que incumplan estándares
-  *	Diálogos con empresas
-  * Campañas de sensibilización empresariales
-  * Impulsar proyectos de ley 
-  * App de trackeo de buen manejo de residuos en empresas
+  •	Publicidad contra empresas que incumplan estándares
+  •	Diálogos con empresas
+  •	Campañas de sensibilización empresariales
+  •	Impulsar proyectos de ley 
+  •	App de trackeo de buen manejo de residuos en empresas
 
 
 
 Recolectores informales
 * **¿Cómo podríamos nosotros mejorar el manejo de residuos por parte de recolectores informales?**
-  * Cursos obligatorios 
-  * Adecuar espacios de manejo de residuos
-  * App enciclopedia de consulta sobre manejo de residuos
-  * Desarrollo de plataforma de aprendizaje
-
+  •	Cursos obligatorios 
+  •	Adecuar espacios de manejo de residuos
+  •	App enciclopedia de consulta sobre manejo de residuos
+  •	Desarrollo de plataforma de aprendizaje
 
 
 4.3	Soluciones propuestas
+
+Cabecera A | Cabecera B
+-- | --
+Campo A0 | Campo B0
+Campo A1 | Campo B1
 
 4.4	Prototipo
 
