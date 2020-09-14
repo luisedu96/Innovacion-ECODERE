@@ -334,10 +334,11 @@ Recolectores informales
 
 4.3	Soluciones propuestas
 
-Cabecera A | Cabecera B
--- | --
-Campo A0 | Campo B0
-Campo A1 | Campo B1
+Baja| | |
+--|--|--|--
+Media| | | 
+Añta| | |
+|Bajo |Medio |Alto
 
 4.4	Prototipo
 
