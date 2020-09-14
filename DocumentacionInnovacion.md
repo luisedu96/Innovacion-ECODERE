@@ -208,6 +208,7 @@ Para el próximo estudio de mercado se plantearán preguntas más específicas e
 
 https://www.youtube.com/watch?v=KzKBUjcTtLQ&feature=youtu.be
 
+
 ## 4. Ideación
 4.1	Interpretar necesidades
 
@@ -297,6 +298,39 @@ Debido a la tendencia bancaria actual, Luz María tuvo que educarse de manera em
 Consume productos de belleza, maquillaje y ropa de temporada, siempre atenta a los gastos que sus hijos necesitan para el colegio, también siempre responsable con el pago de la materia prima para su emprendimiento, le gusta usar celulares caros para poder atender todos sus pedidos y realizar todos los movimientos bancarios que necesita de la manera más ágil y eficaz.
 
 ---
+
+## Proceso de ideacion
+
+De las dificultades encontradas:
+
+Desinformación del tratamiento de desechos electrónicos
+¿Cómo podríamos nosotros ampliar el conocimiento de las personas sobre el reciclaje
+•	Campañas educativas
+•	Cursos obligatorios de reciclaje
+•	Publicidad
+•	Notas en etiquetas de productos
+•	Sanciones por mal manejo de residuos
+•	Desarrollo de plataforma de aprendizaje
+•	App enciclopedia de consulta sobre manejo de residuos
+
+
+El aspecto legal
+¿Cómo podríamos nosotros ayudar a establecer mejores normas frente al manejo de residuos?
+•	Publicidad contra empresas que incumplan estándares
+•	Diálogos con empresas
+•	Campañas de sensibilización empresariales
+•	Impulsar proyectos de ley 
+•	App de trackeo de buen manejo de residuos en empresas
+
+
+
+Recolectores informales
+¿Cómo podríamos nosotros mejorar el manejo de residuos por parte de recolectores informales?
+•	Cursos obligatorios 
+•	Adecuar espacios de manejo de residuos
+•	App enciclopedia de consulta sobre manejo de residuos
+•	Desarrollo de plataforma de aprendizaje
+
 
 
 4.3	Soluciones propuestas
